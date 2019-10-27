@@ -1,4 +1,4 @@
- # Bloggig Application
+ # Blog Application
 
  - Functionalities added:
 
