@@ -12,9 +12,9 @@
  
  - Technologies Used:
 
- *Flask
- *sqlite
- *bootstrap
+ * Flask
+ * sqlite
+ * bootstrap
 
  - Run it
 
