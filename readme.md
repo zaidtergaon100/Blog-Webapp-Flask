@@ -19,4 +19,4 @@
  - Run it
 
    * Go to the command line and get into the directory 'my_blog_app' and run the 'app.py' file.
- in the 
+
